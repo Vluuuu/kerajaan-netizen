@@ -38,7 +38,11 @@
 
 **Penting:** Publikasi lintas platform tidak serentak secara alami. Untuk MVP, perubahan bisa diaktifkan **manual** dengan satu titik publikasi resmi yang ditentukan kreator, bukan mengandalkan webhook posting yang belum tersedia. Status 'terbit' tidak otomatis membuktikan perubahan sudah diterapkan; verifikasi terpisah.
 
-## Episode awal — sketsa, bukan skrip final
+## Episode 1 — blueprint kreatif disetujui
+- Naskah VO, hook kerajaan dari nol, arah shot, CTA komentar, dan status dunia tersimpan di [Episode 1 Blueprint](episodes/episode-01-blueprint.md).
+- Episode 1 sudah **disetujui secara kreatif**, tetapi **belum diproduksi/dirender/diterbitkan**. Rencana durasi 30–40 detik dan timing per shot masih bisa disesuaikan ketika preview VO.
+
+## Episode berikutnya — sketsa, bukan skrip final
 - Episode 1: panorama alam luas tanpa manusia, Joko memperkenalkan dunia, mengundang komentar untuk calon manusia pertama.
 - Episode 2: salah satu komentar terpilih; NPC pertama muncul dan mulai hidup.
 - Selanjutnya: komentar membentuk fasilitas dan warga baru, memunculkan dinamika sederhana.
