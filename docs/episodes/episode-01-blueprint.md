@@ -1,6 +1,6 @@
 # DUNIAJOKO.ID — Episode 1: Membangun Kerajaan dari Nol
 
-> **Status: Episode 1 creative plan approved; VO copy locked for first ElevenLabs take.** Belum direkam, diproduksi, dirender, atau diterbitkan. Versi v1.2, 2026-11-08. Timing masih menunggu audio asli.
+> **Status: Episode 1 creative plan approved; VO copy locked; ElevenLabs MP3 received in conversation (31.007 s).** Belum diimplementasikan, dirender, atau diterbitkan. Versi v1.3, 2026-11-08. Timing awal diturunkan dari jeda audio, butuh verifikasi manual.
 
 ## Fokus episode
 Dalam hook pertama, Joko mengumumkan akan membangun **kerajaan dari nol**. Dunia sudah memiliki **satu castle/istana kosong** sebagai simbol awal arah pembangunan; alam luas sudah ada tetapi **manusia, raja, warga, desa dan peradaban belum ada**. Jangan menggambarkan Joko sebagai raja: ia adalah pencipta/pengamat dunia. Episode pertama berakhir dengan ajakan **follow + komentar** untuk berpeluang menjadi **manusia pertama**.
@@ -60,6 +60,23 @@ Contoh fragmentasi (bukan timestamps final):
 - Tidak ada nama, profesi, atau identitas manusia pertama sebelum Joko memilih komentar nyata.
 - Kehadiran fisik Joko **tidak wajib** pada Episode 1; VO dan kamera pengamat sudah memadai.
 
+## Audio ElevenLabs sudah tersedia — input produksi
+- File yang dikirim pengguna di percakapan: `kerajaan-joko1.mp3`, durasi hasil inspeksi **31.007 detik**, MP3 mono 44.1 kHz.
+- **File audio belum ditambahkan ke GitHub.** Nama file hanya untuk referensi input lokal; agent jangan menganggap file sudah tersedia di repository atau menciptakan file audio pengganti.
+- Target editing awal mengikuti durasi VO, bukan template 35–45 detik. Outro visual 0,5–1 detik hanya jika diperlukan.
+- Rencana batas shot berbasis jeda audio (estimasi; periksa pada playback nyata):
+
+| Shot | Detik | Fokus |
+| --- | --- | --- |
+| 1 | 0.00–3.75 | Hook aerial + reveal castle |
+| 2 | 3.75–5.40 | Castle tunggal yang sudah ada |
+| 3 | 5.40–11.45 | Sungai, hutan, gunung |
+| 4 | 11.45–15.85 | Dataran kosong, PENDUDUK: 0 |
+| 5 | 15.85–23.30 | Ajakan membangun kerajaan melalui komentar |
+| 6 | 23.30–31.01 | CTA manusia pertama, follow + komen |
+
+- Subtitle SRT dan JSON highlight prototype sudah disiapkan dalam konteks percakapan, **belum ditambahkan ke repository**. Timing frasa bersifat **draft dari jeda suara dan naskah yang disetujui**, bukan hasil forced-alignment; harus diverifikasi manual terhadap MP3 sebelum final.
+
 ## Target teknis setelah diizinkan implementasi
 - Video vertikal **1080×1920, 30 FPS**.
 - Render lanskap/castle melalui **Three.js resmi** (mrdoob/three.js) dan komposisi video **Remotion** dengan skill resmi.
@@ -74,7 +91,7 @@ Contoh fragmentasi (bukan timestamps final):
 - [x] Tidak ada manusia pada episode ini.
 - [x] Naskah mengajak follow sebagai **calon warga** dan komen untuk berpeluang dipilih.
 - [x] Subtitle per-frasa/per-kata menyorot kata sesuai VO, merujuk feel video contoh.
-- [ ] Rekam/generate VO ElevenLabs, dengar dan perbaiki intonasi/durasi jika diperlukan.
+- [x] VO ElevenLabs diterima (31.007 s).\n- [ ] Verifikasi naskah dan intonasi aktual terhadap MP3 lewat playback.
 - [ ] Tetapkan timestamp subtitle dari audio asli.
 - [ ] Build/preview, cek ritme kamera, safe area, kesesuaian VO, SFX, dan performa.
 - [ ] Render dan QA audio-video final.
