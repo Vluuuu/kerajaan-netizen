@@ -33,6 +33,8 @@ Status:
 | D-022 | Fondasi referensi 3D resmi **mrdoob/three.js**, dan skill AI Remotion resmi **remotion-dev/skills**; R3F belum diputuskan. |
 | D-023 | Kombinasi kreatif pertumbuhan A + komedi B + drama NPC C; petualangan D belakangan. |
 | D-024 | Nama brand/channel dipilih: **DUNIAJOKO.ID**. Nama repo `kerajaan-netizen` tetap; nama kerajaan dalam cerita belum diputuskan. |
+| D-025 | Episode 1 dibuka dengan **Joko menyatakan ingin membangun kerajaan dari nol** dalam 3 detik awal; narasi santai, natural, sedikit kocak. |
+| D-026 | Episode 1 berakhir dengan **ajakan komentar untuk memilih manusia pertama**; belum ada manusia, raja, atau bangunan di episode tersebut. |
 
 ## Proposed (bukan locked)
 | ID | Usulan |
