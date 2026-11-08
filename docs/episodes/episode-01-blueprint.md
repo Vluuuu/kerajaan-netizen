@@ -53,5 +53,7 @@ Gaya narasi: **santai, natural, sedikit kocak**. Jangan terlalu teatrikal, panja
 - [ ] Identitas channel/handle/domain terverifikasi saat hendak dipublikasikan.
 - [ ] Episode diproduksi, dirender, dan diuji (belum).
 
-## Batas episode 2 (belum final)
-Setelah ada komentar nyata, Joko memilih satu, membuat **satu NPC dengan nama sesuai username**, menentukan peran/pekerjaan yang sesuai dengan isi komentar dan kebutuhan cerita, lalu episode berikutnya memperlihatkan manusia pertama lahir di dunia. Jangan menetapkan nama atau akun contoh sebagai warga kanonis.
+## Batas kreatif: hanya Episode 1
+- **Hanya Episode 1 yang disusun dan dikunci saat ini.** Tidak menyusun plot, daftar bangunan, adegan, NPC atau konflik untuk Episode 2 dan seterusnya sebelum ada komentar nyata yang dipilih Joko.
+- Ajakan untuk menjadi manusia pertama adalah CTA Episode 1, **bukan jaminan bahwa Episode 2 harus berisi kemunculan manusia pertama**. Isi dan urutan episode lanjutan akan ditentukan dari komentar yang benar-benar masuk dan keputusan Joko.
+- Jangan membuat placeholder akun/komentar sebagai keputusan kanonis maupun menyusun episode masa depan berdasarkan asumsi.
