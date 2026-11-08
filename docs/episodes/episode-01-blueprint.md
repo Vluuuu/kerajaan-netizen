@@ -1,59 +1,83 @@
 # DUNIAJOKO.ID — Episode 1: Membangun Kerajaan dari Nol
 
-> **Status: creative blueprint DISETUJUI untuk perencanaan.** Belum diproduksi, belum di-render, belum diterbitkan. Versi v0.2, 2026-11-08.
+> **Status: Episode 1 creative plan approved; VO copy locked for first ElevenLabs take.** Belum direkam, diproduksi, dirender, atau diterbitkan. Versi v1.2, 2026-11-08. Timing masih menunggu audio asli.
 
-## Sasaran episode
-Dalam 3 detik pertama, penonton tahu bahwa **Joko ingin membangun kerajaan dari nol**. Sejak awal Joko adalah pencipta dunia, **bukan raja**. Alam sudah ada; **manusia, rumah, bangunan, dan pemerintahan belum ada**. Penonton diajak berkomentar untuk berpeluang menjadi **manusia/warga resmi pertama**.
+## Fokus episode
+Dalam hook pertama, Joko mengumumkan akan membangun **kerajaan dari nol**. Dunia sudah memiliki **satu castle/istana kosong** sebagai simbol awal arah pembangunan; alam luas sudah ada tetapi **manusia, raja, warga, desa dan peradaban belum ada**. Jangan menggambarkan Joko sebagai raja: ia adalah pencipta/pengamat dunia. Episode pertama berakhir dengan ajakan **follow + komentar** untuk berpeluang menjadi **manusia pertama**.
 
-Gaya narasi: **santai, natural, sedikit kocak**. Jangan terlalu teatrikal, panjang, atau memaksakan humor pada setiap kalimat.
+## Naskah VO — versi 1.2 (siap dicoba di ElevenLabs)
 
-## Naskah voice-over disetujui (timing kasar, perlu penyesuaian ke VO asli)
+> Gue Joko, dan gue lagi bangun kerajaan dari nol.
+>
+> Castlenya udah ada.
+>
+> Dunianya juga udah siap. Ada sungai, hutan, gunung, semuanya luas banget.
+>
+> Tapi masalahnya... belum ada satu manusia pun di sini.
+>
+> Jadi sekarang gue butuh kalian buat ngisi dunia ini.
+>
+> Komentar yang gue pilih, bakal gue wujudin langsung di kerajaan ini.
+>
+> Mau jadi manusia pertama?
+>
+> Follow dulu biar jadi calon warga kerajaan, terus komen di bawah.
+>
+> Nanti gue pilih satu orang!
 
-| Perkiraan waktu | Fungsi | VO |
-| --- | --- | --- |
-| 00:00–00:05 | Hook | "Gue Joko, dan gue bakal bangun sebuah kerajaan dari nol. Tapi... ada satu masalah." |
-| 00:05–00:12 | Dunia | "Ini dunia gue. Ada gunung, sungai, hutan, tanahnya juga luas banget." |
-| 00:12–00:18 | Konflik | "Cuma ya gitu... belum ada satu manusia pun di sini. Jadi mau bikin kerajaan sama siapa?" |
-| 00:18–00:26 | Premis partisipasi | "Nah, makanya gue mau ngajak kalian buat bangun kerajaan ini bareng-bareng. Komen kalian bisa gue wujudin di dunia ini." |
-| 00:26–00:35 | CTA | "Dan sekarang, gue butuh manusia pertama. Siapa yang mau jadi warga pertama kerajaan gue? Komen di bawah, nanti gue pilih satu orang!" |
+**Cara baca:** santai, natural, antusias secukupnya, sedikit kocak; jeda komedi setelah “Tapi masalahnya...”; CTA jelas tetapi tidak teriak. Jangan memaksa audio cocok dengan timing storyboard; desain timing setelah VO asli tersedia.
 
-**Catatan timeline:** penempatan detik adalah rancangan; timing final mengikuti rekaman VO, ritme edit, dan durasi shot. Jangan memotong kalimat hanya untuk mengejar 35 detik.
+## Shot list (urutan disepakati, durasi belum dikunci)
+1. **Hook / aerial reveal** — kamera terbang di atas lembah memperlihatkan **castle tunggal** di tengah dunia luas. Overlay pendek **MEMBANGUN KERAJAAN DARI NOL**, bukan layar teks panjang.
+2. **Castle reveal** — close-medium shot sederhana pada castle kosong. VO “Castlenya udah ada.” Jangan menampilkan raja, penjaga, atau manusia di castle.
+3. **Panorama alam** — kamera menyusuri sungai/hutan/pegunungan; bentuk dunia sangat sederhana, view distance tampak luas dengan aset jauh low-detail.
+4. **Masalah / komedi** — kamera menyorot halaman castle atau dataran kosong, berhenti sesaat. Teks ekspresif **PENDUDUK: 0** dan SFX jeda ringan boleh dipakai.
+5. **Premis komentar** — kamera orbit perlahan di castle dan dataran sekelilingnya. Jangan menampilkan komentar nyata/fiktif seolah sudah terpilih; bila ingin overlay, pakai callout generik tanpa username/engagement palsu.
+6. **CTA** — kamera mendekat ke dataran kosong. Teks **MAU JADI MANUSIA PERTAMA?** lalu **FOLLOW + KOMEN**. Frame akhir tetap tanpa NPC.
 
-## Rencana shot awal
-1. **Opening / kamera aerial luas** — lembah hijau dekat sungai, pepohonan jarang, perbukitan/pegunungan jauh. Teks penegas **MEMBANGUN KERAJAAN DARI NOL**.
-2. **Panorama detail alam** — perlihatkan sungai, hutan dan medan luas; visual sengaja ultra-low-poly, geometry/material murah.
-3. **Kamera berhenti pada area kosong** — punchline belum ada manusia; jeda komedi/ambience singkat boleh, tetapi jangan sampai pacing lambat.
-4. **Lokasi calon permukiman** — framing menegaskan area yang akan berkembang lewat ide netizen. Tidak membuat bangunan atau jalan buatan terlebih dahulu.
-5. **CTA di dataran kosong** — teks **WARGA PERTAMA = KAMU?** dan ajakan berkomentar. Jangan menampilkan karakter nyata/fiktif saat Episode 1.
+## Subtitle dinamis mengikuti VO
+Mengacu pada **pacing dan fungsi subtitle** video referensi pengguna, **bukan meniru layout/branding atau asetnya secara identik**.
 
-## Aturan kontinuitas / world canon
-- Pada akhir Episode 1: **warga resmi 0, NPC 0, bangunan 0, raja 0**.
-- Tidak ada penciptaan manusia atau bangunan permanen sebelum komentar terpilih dan episode perubahan terkait resmi terbit.
-- **Calon Warga Kerajaan** boleh ditampilkan sebagai metrik komunitas jika angka follower benar-benar tersedia/akurat; tidak sama dengan jumlah warga nyata.
-- Joko hadir melalui **VO/kamera pengamat**; wujud 3D fisik Joko **tidak wajib muncul** di Episode 1.
-- Komentar yang terpilih untuk Episode 2 harus berasal dari netizen nyata dan **dipilih Joko**, bukan hasil voting atau like terbanyak.
-- Jangan mengarang screenshot komentar, username, jumlah follower, atau klaim partisipasi nyata.
+- Jangan menampilkan kalimat penuh statis. Pecah subtitle menjadi **potongan frasa pendek** sesuai ucapan.
+- **Kata yang sedang diucapkan** diberi highlight per-kata atau per-frasa (bukan semua kata secara bersamaan).
+- Saat VO mengucap “kerajaan”, “dari nol”, “castle”, “manusia pertama”, “follow”, “komen” bisa ada pop/scale ringan secara selektif.
+- Teks ekspresif **PENDUDUK: 0** hanya saat shot kosong. Jangan menabrak subtitle utama.
+- Tempatkan subtitle di safe area vertikal, dengan ruang bagi UI Shorts/TikTok/Reels.
+- **Timestamp/kata-per-kata belum ditetapkan** sampai audio ElevenLabs diterima. Timing otomatis perlu dikoreksi manual pada bagian yang sulit.
 
-## Standar produksi yang ditargetkan (belum diimplementasikan)
-- Output vertikal **1080×1920, 30 FPS**, durasi kerja sekitar **30–40 detik**.
-- Dunia visual dengan **Three.js resmi** (`mrdoob/three.js`); produksi video **Remotion** dan skill resminya.
-- Animasi utama: pergerakan kamera, suasana ringan, pencahayaan sederhana, teks penekanan + subtitle, VO dan SFX secukupnya.
-- Target low-poly **lebih ringan** daripada gaya video referensi. Tidak butuh rig NPC, fisika, atau terrain ultra detail untuk Episode 1.
-- Video dan world viewer nantinya membaca definisi lingkungan yang sama; jangan membuat world state berbeda untuk video.
+Contoh fragmentasi (bukan timestamps final):
+- “Gue Joko” → “gue lagi bangun” → “kerajaan” → “dari nol”
+- “Castlenya” → “udah ada”
+- “Tapi masalahnya...” → “belum ada” → “satu manusia pun”
+- “Follow dulu” → “calon warga kerajaan” → “komen di bawah”
 
-## Checklist review kreatif sebelum implementasi
-- [x] Tujuan membangun **kerajaan** disebut pada pembukaan.
-- [x] Joko jelas sebagai pencipta, bukan raja.
-- [x] Alam sudah ada; belum ada manusia.
-- [x] Partisipasi lewat komentar netizen, bukan voting.
-- [x] Tone natural dan agak kocak.
-- [x] Ending mengundang netizen menjadi manusia pertama.
-- [ ] Visual environment style guide dirinci/diuji dengan contoh scene aktual.
-- [ ] Tempo VO, durasi shot, subtitle, dan SFX diverifikasi pada preview nyata.
-- [ ] Identitas channel/handle/domain terverifikasi saat hendak dipublikasikan.
-- [ ] Episode diproduksi, dirender, dan diuji (belum).
+## World state kanonis pada akhir Episode 1
+- **Castle/istana: 1 (sudah ada sejak awal, kosong, dibuat Joko).**
+- **Bangunan lain: 0.**
+- **Warga resmi: 0; NPC manusia: 0; raja: 0.**
+- Alam: lembah luas dekat sungai, pepohonan/hutan, pegunungan; jangan membuat wilayah terlalu berat hanya untuk video.
+- **Calon Warga Kerajaan** mengikuti follower/community metric jika benar-benar tersedia, **bukan NPC/warga aktual**.
+- Tidak ada nama, profesi, atau identitas manusia pertama sebelum Joko memilih komentar nyata.
+- Kehadiran fisik Joko **tidak wajib** pada Episode 1; VO dan kamera pengamat sudah memadai.
 
-## Batas kreatif: hanya Episode 1
-- **Hanya Episode 1 yang disusun dan dikunci saat ini.** Tidak menyusun plot, daftar bangunan, adegan, NPC atau konflik untuk Episode 2 dan seterusnya sebelum ada komentar nyata yang dipilih Joko.
-- Ajakan untuk menjadi manusia pertama adalah CTA Episode 1, **bukan jaminan bahwa Episode 2 harus berisi kemunculan manusia pertama**. Isi dan urutan episode lanjutan akan ditentukan dari komentar yang benar-benar masuk dan keputusan Joko.
-- Jangan membuat placeholder akun/komentar sebagai keputusan kanonis maupun menyusun episode masa depan berdasarkan asumsi.
+## Target teknis setelah diizinkan implementasi
+- Video vertikal **1080×1920, 30 FPS**.
+- Render lanskap/castle melalui **Three.js resmi** (mrdoob/three.js) dan komposisi video **Remotion** dengan skill resmi.
+- Ultra-low-poly, geometri sederhana, material reusable, pencahayaan ringan, tanpa fisika atau karakter NPC di Episode 1.
+- Gunakan definisi aset dan world state kanonis yang dapat dipakai ulang website; tidak membuat world-state terpisah untuk video.
+- Animasi castle **tidak perlu dirakit** pada Episode 1 karena secara cerita sudah ada. Pembangunan Joko dari komentar pada masa depan dapat memiliki animasi proses sesuai kebijakan proyek.
+
+## Review gate
+- [x] Kerajaan disebut dari detik pertama secara naratif.
+- [x] Castle sudah ada tetapi belum dihuni dan tidak memiliki raja.
+- [x] Dunia alami luas, ultra-low-poly, ringan.
+- [x] Tidak ada manusia pada episode ini.
+- [x] Naskah mengajak follow sebagai **calon warga** dan komen untuk berpeluang dipilih.
+- [x] Subtitle per-frasa/per-kata menyorot kata sesuai VO, merujuk feel video contoh.
+- [ ] Rekam/generate VO ElevenLabs, dengar dan perbaiki intonasi/durasi jika diperlukan.
+- [ ] Tetapkan timestamp subtitle dari audio asli.
+- [ ] Build/preview, cek ritme kamera, safe area, kesesuaian VO, SFX, dan performa.
+- [ ] Render dan QA audio-video final.
+
+## Batas kreatif
+**Hanya Episode 1 yang direncanakan.** Plot dan entitas Episode 2+ hanya ditetapkan setelah ada komentar nyata dan pilihan Joko. Tidak ada skrip episode berikutnya, voting, atau klaim bahwa komentar tertentu sudah dipilih.
