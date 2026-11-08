@@ -1,6 +1,8 @@
-# Kerajaan Netizen (Working Title)
+# DUNIAJOKO.ID — Kerajaan Netizen (Project Codename)
 
 > **Status:** dokumentasi & brainstorming — belum ada implementasi aplikasi, database, simulasi, atau rendering produksi.
+>
+> **Brand/channel dipilih:** **DUNIAJOKO.ID**. Ini penetapan nama kreatif; belum berarti domain `duniajoko.id` telah dibeli atau diverifikasi tersedia. **Kerajaan Netizen** tetap nama kerja repository/proyek teknis. Nama kerajaan pertama di dalam dunia masih belum ditentukan.
 
 **Visi:** satu dunia fantasi kerajaan 3D permanen yang berkembang dari **komentar penonton terpilih**, dapat dikunjungi melalui website, dan menjadi sumber kanonis untuk video sinematik dengan Remotion. Joko berperan sebagai pencipta/pengamat dunia, **bukan raja**. Raja pertama baru akan diangkat kemudian dari netizen.
 
