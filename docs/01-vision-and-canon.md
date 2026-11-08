@@ -2,7 +2,12 @@
 Status: **working canon**. Diperbarui 2026-11-08. Keputusan kreatif dapat direvisi secara eksplisit; jangan menebak keputusan baru.
 
 ## Elevator pitch
-Kerajaan Netizen (judul kerja) adalah dunia 3D ultra-low-poly yang dapat dikunjungi, berkembang permanen dari komentar terpilih, dan menjadi bahan cerita video sinematik. **Satu dunia kanonis, dua pengalaman: website eksplorasi dan video sosial.**
+**DUNIAJOKO.ID** (brand/channel; repository bernama Kerajaan Netizen) adalah dunia 3D ultra-low-poly yang dapat dikunjungi, berkembang permanen dari komentar terpilih, dan menjadi bahan cerita video sinematik. **Satu dunia kanonis, dua pengalaman: website eksplorasi dan video sosial.**
+
+## Nama dan identitas
+- **Nama brand/channel yang dipilih:** `DUNIAJOKO.ID` (penulisan identitas visual). Nama website/domain yang dituju dapat berupa `duniajoko.id`, tetapi **kepemilikan/ketersediaan domain belum diverifikasi**.
+- **Nama repo/proyek teknis:** `kerajaan-netizen`; tidak perlu diganti hanya karena identitas channel berubah.
+- **Nama kerajaan dalam cerita:** belum ada. Kerajaan belum terbentuk di Episode 1; nama kerajaan dan pengangkatan raja dapat menjadi bagian dari perkembangan cerita/netizen.
 
 ## Prinsip yang disepakati
 1. **Joko** adalah pencipta/pengamat yang memiliki otoritas tertinggi, **bukan raja**. Biasanya hadir sebagai sudut pandang/narator dari atas, dan sesekali muncul fisik (manifestasi) ketika dibutuhkan.
@@ -39,4 +44,4 @@ Kerajaan Netizen (judul kerja) adalah dunia 3D ultra-low-poly yang dapat dikunju
 - Jangan mengubah komentar atau identitas netizen secara menyesatkan. Tampilkan atribusi dengan pertimbangan privasi.
 
 ## Tidak disepakati/belum final
-Nama channel/kerajaan, detail desain Joko, rasio waktu simulasi, umur/kematian/keturunan, politik raja, sistem ekonomi detail, dan daftar episode belum final.
+Nama kerajaan dalam cerita, status domain/handle brand, detail desain Joko, rasio waktu simulasi, umur/kematian/keturunan, politik raja, sistem ekonomi detail, dan daftar episode belum final.
