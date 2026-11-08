@@ -8,7 +8,7 @@
 
 ## Prinsip inti
 
-- Dunia berawal dengan alam yang **luas** (wilayah utama lembah dekat sungai), **tanpa manusia dan tanpa kerajaan**.
+- Dunia berawal dengan alam yang **luas** (wilayah utama lembah dekat sungai) dan **satu castle kosong yang sudah disiapkan Joko**, tetapi **tanpa manusia, raja, permukiman, atau kehidupan kerajaan**.
 - Manusia pertama dipilih dari **komentar netizen**. Komentar bisa berasal dari TikTok, YouTube, Instagram, atau Facebook; Joko melakukan kurasi, **bukan voting**.
 - Netizen terpilih menjadi NPC permanen dengan **nama sesuai username**, identitas unik per platform/akun, dan pekerjaan/peran ditetapkan Joko. Satu identitas netizen terverifikasi = satu NPC; komentar berikutnya mengembangkan karakter yang sama.
 - Jumlah follower ditampilkan sebagai **Calon Warga Kerajaan**, bukan populasi NPC aktual atau jumlah warga resmi.
@@ -26,7 +26,7 @@
 | [Vision & creative canon](docs/01-vision-and-canon.md) | Keputusan dunia, Joko, netizen, dan batasan kreatif |
 | [World & NPC design](docs/02-world-and-npc.md) | Region, kamera, NPC, perilaku, performa awal |
 | [Community & episodes](docs/03-community-and-episodes.md) | Komentar lintas platform, warga, produksi video, publikasi |
-| [Episode 1 creative blueprint](docs/episodes/episode-01-blueprint.md) | Naskah VO yang disetujui, storyboard, CTA, dan aturan kontinuitas |
+| [Episode 1 creative blueprint](docs/episodes/episode-01-blueprint.md) | Naskah VO v1.2 untuk ElevenLabs, castle awal, storyboard, subtitle dinamis, CTA follow + komen |
 | [Architecture proposal](docs/04-architecture-proposal.md) | Batas subsistem dan alur data **usulan, belum final** |
 | [Engineering quality standards](docs/05-engineering-standards.md) | Kriteria mutu disesuaikan skala proyek |
 | [MVP & roadmap](docs/06-mvp-roadmap.md) | Milestone bertahap dan acceptance criteria |
