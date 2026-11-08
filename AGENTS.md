@@ -16,7 +16,7 @@
 ## Canon yang tidak boleh diubah sembarangan
 - Nama brand/channel disepakati **DUNIAJOKO.ID** (nama teknis repository tetap `kerajaan-netizen`); jangan menyimpulkan domain `duniajoko.id` telah dibeli atau terverifikasi. Nama kerajaan in-universe belum ditetapkan.
 - Joko adalah pencipta dunia, **bukan raja**.
-- Dunia mulai dengan alam luas, **tanpa manusia**; manusia pertama berasal dari komentar terpilih.
+- Dunia mulai dengan alam luas dan **satu castle kosong yang telah disiapkan Joko**, tetapi **tanpa manusia, raja, rumah, atau bangunan lain**; manusia pertama berasal dari komentar terpilih.
 - Komentar manual lintas platform, **BUKAN voting**.
 - Nama NPC = username netizen; satu netizen yang teridentifikasi = satu NPC permanen. Role awal ditentukan Joko.
 - **Follower = Calon Warga Kerajaan**, bukan warga aktif atau NPC yang langsung dibangkitkan.
@@ -24,6 +24,7 @@
 - Perubahan besar live di website saat episode tayang.
 - Waktu hybrid; simulasi domain independen dari render 3D; web dan video dari satu world canon.
 - Visual ultra-low-poly sangat ringan; region jauh tidak perlu langsung aktif.
+- Episode 1 menggunakan blueprint `docs/episodes/episode-01-blueprint.md`: VO untuk ElevenLabs, castle awal, subtitle per-frasa/kata mengikuti suara, CTA follow + komen; **jangan menulis cerita Episode 2+** sebelum komentar nyata dipilih Joko.
 - Tidak mencampur aset/lore/data Pulau Gobi.
 
 ## Sumber teknologi
