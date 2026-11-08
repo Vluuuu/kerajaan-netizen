@@ -34,8 +34,10 @@ Status:
 | D-023 | Kombinasi kreatif pertumbuhan A + komedi B + drama NPC C; petualangan D belakangan. |
 | D-024 | Nama brand/channel dipilih: **DUNIAJOKO.ID**. Nama repo `kerajaan-netizen` tetap; nama kerajaan dalam cerita belum diputuskan. |
 | D-025 | Episode 1 dibuka dengan **Joko menyatakan ingin membangun kerajaan dari nol** dalam 3 detik awal; narasi santai, natural, sedikit kocak. |
-| D-026 | Episode 1 berakhir dengan **ajakan komentar untuk memilih manusia pertama**; belum ada manusia, raja, atau bangunan di episode tersebut. |
+| D-026 | Episode 1 berakhir dengan **follow + komentar** untuk berpeluang menjadi manusia pertama; tidak ada manusia atau raja pada episode tersebut. |
 | D-027 | **Fokus produksi hanya Episode 1**; Episode 2 dan seterusnya tidak diplot lebih dahulu, tetapi ditentukan oleh komentar penonton nyata yang dikurasi Joko. |
+| D-028 | **Satu castle/istana kosong sudah ada sejak awal Episode 1**, disiapkan Joko sebagai simbol kerajaan masa depan; belum ada manusia, raja, rumah, atau bangunan lain. |
+| D-029 | Episode 1 memakai VO versi 1.2 untuk percobaan ElevenLabs dan **subtitle dinamis per-frasa/kata dengan highlight sesuai VO** seperti fungsi subtitle video referensi (tidak meniru identitasnya). |
 
 ## Proposed (bukan locked)
 | ID | Usulan |
