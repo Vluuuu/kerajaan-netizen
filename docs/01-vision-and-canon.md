@@ -11,7 +11,7 @@ Status: **working canon**. Diperbarui 2026-11-08. Keputusan kreatif dapat direvi
 
 ## Prinsip yang disepakati
 1. **Joko** adalah pencipta/pengamat yang memiliki otoritas tertinggi, **bukan raja**. Biasanya hadir sebagai sudut pandang/narator dari atas, dan sesekali muncul fisik (manifestasi) ketika dibutuhkan.
-2. **Alam sudah ada dan sangat luas**, bukan pulau/diorama kecil. Peradaban dimulai dari nol: tidak ada manusia, rumah, pemerintahan, atau raja pada awal Episode 1.
+2. **Alam sudah ada dan sangat luas**, bukan pulau/diorama kecil. Peradaban dimulai dari nol: **satu castle/istana kosong sudah ada karena disiapkan Joko**, tetapi tidak ada manusia, rumah warga, pemerintahan, atau raja pada awal Episode 1.
 3. **Manusia pertama berasal dari komentar netizen terpilih**, bukan NPC ciptaan sepihak yang sudah ditentukan nama/identitasnya.
 4. Partisipasi utama lewat **komentar terkurasi Joko; tidak memakai voting**. Komentar dapat memicu pembangunan, penambahan penduduk, hadiah, kejadian sosial, atau humor dan drama yang disaring kreator.
 5. **NPC warga resmi mewakili netizen terpilih**; nama karakter ditampilkan sesuai username media sosial. Pekerjaan, peran, dan hasil komentar ditentukan Joko, tidak otomatis sesuai keinginan pengusul.
@@ -23,6 +23,13 @@ Status: **working canon**. Diperbarui 2026-11-08. Keputusan kreatif dapat direvi
 11. Arah cerita menggabungkan **pertumbuhan kerajaan (A), komedi komentar/otoritas Joko (B), dan hubungan/konflik NPC (C)**. Eksplorasi petualangan/perang (D) tidak diprioritaskan pada awal.
 12. Visual **sangat sederhana, ultra-low-poly, hemat resource** dengan inspirasi tingkat kesederhanaan video referensi pengguna; bukan mengejar realisme atau cinematic fantasy berat.
 13. Dunia, karakter, data, dan repo terpisah sepenuhnya dari proyek Pulau Gobi.
+
+## Episode 1 — landmark awal
+- **Castle/istana tunggal sudah ada sejak pertama kali dunia diperlihatkan**; ini bangunan kosong yang menjadi simbol tujuan Joko membangun kerajaan.
+- Belum ada warga, raja, pasar, desa, rumah, peternakan, sawah, atau bangunan lain. Castle bukan bukti bahwa pemerintahan kerajaan sudah berjalan.
+- VO Episode 1 versi 1.2 mengikuti gaya santai, natural, sedikit kocak; dibuat untuk **ElevenLabs**, belum ada rekaman/render. CTA: **follow + komentar**.
+- Subtitle video dinamis, dipecah per frasa, highlight kata mengikuti VO seperti fungsi subtitle pada video contoh, tanpa meniru identitas visual channel lain.
+- Blueprint: [Episode 1](episodes/episode-01-blueprint.md). Episode-episode setelahnya belum diputuskan dan bergantung pada komentar nyata.
 
 ## Joko — arah karakter versi awal
 - Persona: santai, dekat netizen, tetap punya kendali tertinggi.
