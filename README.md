@@ -26,6 +26,7 @@
 | [Vision & creative canon](docs/01-vision-and-canon.md) | Keputusan dunia, Joko, netizen, dan batasan kreatif |
 | [World & NPC design](docs/02-world-and-npc.md) | Region, kamera, NPC, perilaku, performa awal |
 | [Community & episodes](docs/03-community-and-episodes.md) | Komentar lintas platform, warga, produksi video, publikasi |
+| [Episode 1 creative blueprint](docs/episodes/episode-01-blueprint.md) | Naskah VO yang disetujui, storyboard, CTA, dan aturan kontinuitas |
 | [Architecture proposal](docs/04-architecture-proposal.md) | Batas subsistem dan alur data **usulan, belum final** |
 | [Engineering quality standards](docs/05-engineering-standards.md) | Kriteria mutu disesuaikan skala proyek |
 | [MVP & roadmap](docs/06-mvp-roadmap.md) | Milestone bertahap dan acceptance criteria |
