@@ -35,6 +35,7 @@ Status:
 | D-024 | Nama brand/channel dipilih: **DUNIAJOKO.ID**. Nama repo `kerajaan-netizen` tetap; nama kerajaan dalam cerita belum diputuskan. |
 | D-025 | Episode 1 dibuka dengan **Joko menyatakan ingin membangun kerajaan dari nol** dalam 3 detik awal; narasi santai, natural, sedikit kocak. |
 | D-026 | Episode 1 berakhir dengan **ajakan komentar untuk memilih manusia pertama**; belum ada manusia, raja, atau bangunan di episode tersebut. |
+| D-027 | **Fokus produksi hanya Episode 1**; Episode 2 dan seterusnya tidak diplot lebih dahulu, tetapi ditentukan oleh komentar penonton nyata yang dikurasi Joko. |
 
 ## Proposed (bukan locked)
 | ID | Usulan |
