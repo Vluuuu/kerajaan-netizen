@@ -32,6 +32,7 @@ Status:
 | D-021 | Visual sangat ringan/ultra-low-poly; NPC blocky sangat sederhana. |
 | D-022 | Fondasi referensi 3D resmi **mrdoob/three.js**, dan skill AI Remotion resmi **remotion-dev/skills**; R3F belum diputuskan. |
 | D-023 | Kombinasi kreatif pertumbuhan A + komedi B + drama NPC C; petualangan D belakangan. |
+| D-024 | Nama brand/channel dipilih: **DUNIAJOKO.ID**. Nama repo `kerajaan-netizen` tetap; nama kerajaan dalam cerita belum diputuskan. |
 
 ## Proposed (bukan locked)
 | ID | Usulan |
@@ -47,7 +48,7 @@ Status:
 | P-009 | Manual activation episode sampai sinkronisasi publikasi otomatis benar-benar dibutuhkan. |
 
 ## Open Questions — urut prioritas
-1. Nama final brand/channel, nama dunia/kerajaan, dan domain.
+1. Nama kerajaan dalam cerita, kemungkinan nama dunia, dan verifikasi ketersediaan/kepemilikan domain serta handle `DUNIAJOKO.ID`.
 2. Visual bible Joko yang benar-benar disetujui (silhouette, warna, proporsi, rig).
 3. Bentuk data identitas netizen: moderasi username, perubahan nama, platform duplicate, klaim akun, opt-out.
 4. Ketentuan calon warga: sumber angka follower, penggabungan antar-platform, interval pembaruan, saat follower turun.
