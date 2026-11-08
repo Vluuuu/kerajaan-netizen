@@ -39,8 +39,8 @@
 **Penting:** Publikasi lintas platform tidak serentak secara alami. Untuk MVP, perubahan bisa diaktifkan **manual** dengan satu titik publikasi resmi yang ditentukan kreator, bukan mengandalkan webhook posting yang belum tersedia. Status 'terbit' tidak otomatis membuktikan perubahan sudah diterapkan; verifikasi terpisah.
 
 ## Episode 1 — blueprint kreatif disetujui
-- Naskah VO, hook kerajaan dari nol, arah shot, CTA komentar, dan status dunia tersimpan di [Episode 1 Blueprint](episodes/episode-01-blueprint.md).
-- Episode 1 sudah **disetujui secara kreatif**, tetapi **belum diproduksi/dirender/diterbitkan**. Rencana durasi 30–40 detik dan timing per shot masih bisa disesuaikan ketika preview VO.
+- Naskah VO v1.2 untuk ElevenLabs, hook kerajaan dari nol, **castle kosong sejak awal**, shot, **subtitle dinamis mengikuti VO**, CTA follow + komentar, dan world state disimpan di [Episode 1 Blueprint](episodes/episode-01-blueprint.md).
+- Episode 1 sudah **disetujui secara kreatif**, tetapi **belum diproduksi/dirender/diterbitkan**. Timing shot dan durasi final **belum dipatok**; sesuaikan dengan rekaman ElevenLabs dan preview.
 
 ## Episode setelah Episode 1 — menunggu komentar nyata
 - **Belum ada outline untuk Episode 2 atau episode berikutnya.** Cerita, peristiwa, penambahan NPC, dan bangunan ditentukan dari komentar penonton yang masuk dan dipilih Joko.
