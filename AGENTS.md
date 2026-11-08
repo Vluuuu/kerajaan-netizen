@@ -14,6 +14,7 @@
 6. Dokumentasi relevan lainnya.
 
 ## Canon yang tidak boleh diubah sembarangan
+- Nama brand/channel disepakati **DUNIAJOKO.ID** (nama teknis repository tetap `kerajaan-netizen`); jangan menyimpulkan domain `duniajoko.id` telah dibeli atau terverifikasi. Nama kerajaan in-universe belum ditetapkan.
 - Joko adalah pencipta dunia, **bukan raja**.
 - Dunia mulai dengan alam luas, **tanpa manusia**; manusia pertama berasal dari komentar terpilih.
 - Komentar manual lintas platform, **BUKAN voting**.
