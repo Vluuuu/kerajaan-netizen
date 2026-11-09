@@ -39,6 +39,12 @@ Status:
 | D-028 | **Satu castle/istana kosong sudah ada sejak awal Episode 1**, disiapkan Joko sebagai simbol kerajaan masa depan; belum ada manusia, raja, rumah, atau bangunan lain. |
 | D-029 | Episode 1 memakai VO versi 1.2 untuk percobaan ElevenLabs dan **subtitle dinamis per-frasa/kata dengan highlight sesuai VO** seperti fungsi subtitle video referensi (tidak meniru identitasnya). |
 
+## Approved direction added 2026-11-09 (pending reconciliation with newer local decision IDs)
+- Setelah Episode 2 terbit, **tata ruang kerajaan harus terencana dan konsisten**: rumah, jalan, castle dan fasilitas masa depan tidak boleh ditempatkan secara acak.
+- **Tiga rumah kanonis Episode 2 tetap menjadi Kampung Pelopor**; jangan memindahkan atau menghilangkannya diam-diam. Jika relokasi memang dibutuhkan, perlu keputusan pemilik dan peristiwa kanonis yang diceritakan.
+- **Rincian zonasi dan implementasi belum disetujui**. Masterplan dipertimbangkan sebagai next improvement, bukan instruksi untuk coding sekarang. Lihat `docs/09-spatial-masterplan-backlog.md`.
+- Sengaja tidak menerbitkan nomor D-030+ di branch dokumentasi ini: menurut laporan Claude Code, decision log lokal telah mencakup D-033; nomor harus direkonsiliasi saat integrasi branch untuk mencegah benturan.
+
 ## Proposed (bukan locked)
 | ID | Usulan |
 | --- | --- |
