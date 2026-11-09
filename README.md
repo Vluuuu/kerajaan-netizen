@@ -25,6 +25,7 @@
 | --- | --- |
 | [Vision & creative canon](docs/01-vision-and-canon.md) | Keputusan dunia, Joko, netizen, dan batasan kreatif |
 | [World & NPC design](docs/02-world-and-npc.md) | Region, kamera, NPC, perilaku, performa awal |
+| [Kingdom masterplan backlog](docs/09-spatial-masterplan-backlog.md) | Tata ruang kerajaan, Kampung Pelopor, aturan placement, zonasi, QA, dan tahapan peningkatan ke depan |
 | [Community & episodes](docs/03-community-and-episodes.md) | Komentar lintas platform, warga, produksi video, publikasi |
 | [Episode 1 creative blueprint](docs/episodes/episode-01-blueprint.md) | Naskah VO v1.2 untuk ElevenLabs, castle awal, storyboard, subtitle dinamis, CTA follow + komen |
 | [Architecture proposal](docs/04-architecture-proposal.md) | Batas subsistem dan alur data **usulan, belum final** |
@@ -36,7 +37,7 @@
 
 ## Tahap saat ini
 
-**Dokumentasi saja.** Tidak ada coding, setup runtime, penambahan dependency, database, workflow CI, atau deployment sebelum konsep dan arsitektur implementasi disetujui secara eksplisit.
+**Proyek sudah dalam fase implementasi lokal menurut laporan pemilik:** Episode 1 dan 2 telah dipublikasikan, viewer 3D MVP dan render pipeline sedang dikembangkan. Detail kode terbaru bisa berada di branch/working tree lokal yang belum masuk GitHub; cek keadaan repository sebelum memodifikasi. **Website belum disetujui untuk deploy publik.** Improvement masterplan yang dicatat adalah backlog, belum izin implementasi.
 
 Referensi teknis utama yang diprioritaskan:
 - Three.js resmi: https://github.com/mrdoob/three.js
