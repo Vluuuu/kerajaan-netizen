@@ -7,6 +7,9 @@
 - Region lain boleh dirancang skematis, tetapi **tidak perlu full-detail, tidak perlu simulasi NPC aktif** sebelum dibutuhkan.
 - Dunia tidak boleh di-reset hanya karena video/fitur baru; ekspansi harus mempertahankan koordinat dan identitas objek lama.
 
+## Tata ruang dan kontinuitas setelah Episode 2
+Menurut laporan pemilik, Episode 2 telah terbit dengan 9 warga dan 3 rumah baru di dekat depan castle. Rumah tersebut menjadi **Kampung Pelopor** yang historis; tidak boleh diam-diam dipindah demi memperindah masterplan. Untuk pembangunan selanjutnya, gunakan zonasi, koridor gerbang dan akses jalan yang direncanakan, dengan validasi kemiringan terrain, sungai/tepian, collision, NPC navigation, camera sightlines, dan kontinuitas snapshot. Seluruh arahan, opsi skenario dan QA ada di [Spatial Masterplan Backlog](09-spatial-masterplan-backlog.md). Rincian posisi/footprint perlu diaudit terhadap kode aktual sebelum implementasi, tidak ditentukan dari sketsa.
+
 ## Batas visual awal
 - Ultra-low-poly: geometri murah, material sederhana, warna terbatas, model reusable.
 - Castle awal berupa geometri ultra-low-poly sederhana, reusable, tanpa ornamen berlebihan atau interior kompleks. Castle kosong dan tidak dihuni.
