@@ -4,7 +4,7 @@
 >
 > **Brand/channel dipilih:** **DUNIAJOKO.ID**. Ini penetapan nama kreatif; belum berarti domain `duniajoko.id` telah dibeli atau diverifikasi tersedia. **Kerajaan Netizen** tetap nama kerja repository/proyek teknis. Nama kerajaan pertama di dalam dunia masih belum ditentukan.
 
-**Visi:** satu dunia fantasi kerajaan 3D permanen yang berkembang dari **komentar penonton terpilih**, dapat dikunjungi melalui website, dan menjadi sumber kanonis untuk video sinematik dengan Remotion. Joko berperan sebagai pencipta/pengamat dunia, **bukan raja**. Raja pertama baru akan diangkat kemudian dari netizen.
+**Visi:** satu dunia fantasi kerajaan kanonis yang berkembang permanen dari **komentar penonton terpilih**. Video tetap sinematik **3D** dengan Three.js/Remotion; arah website/game publik adalah **2D isometrik/2.5D** dari world state yang **sama**. Joko berperan sebagai pencipta/pengamat dunia, **bukan raja**. Raja pertama baru akan diangkat kemudian dari netizen.
 
 ## Prinsip inti
 
@@ -16,7 +16,7 @@
 - Pembangunan awal diwujudkan Joko melalui **animasi pembentukan dalam satu video**, bukan proses konstruksi dunia nyata berhari-hari.
 - Perubahan besar menjadi **resmi di website pada saat episode dipublikasikan**; aktivitas NPC rutin terus berlangsung.
 - Visual sangat ringan: **ultra-low-poly** dan reusable. Dunia geografis luas, tetapi area detail/simulasi aktif dikembangkan bertahap.
-- Dunia interaktif dan video memakai **satu sumber data kanonis**, bukan dua world state independen.
+- Dunia interaktif dan video memakai **satu sumber data kanonis**, bukan dua world state independen. Video 3D dan game publik 2D isometrik memakai renderer berbeda, bukan data dunia berbeda.
 - Proyek ini **terpisah dari Pulau Gobi**: aset, karakter, lore, repo, dan data tidak dicampur.
 
 ## Dokumentasi
@@ -26,6 +26,7 @@
 | [Vision & creative canon](docs/01-vision-and-canon.md) | Keputusan dunia, Joko, netizen, dan batasan kreatif |
 | [World & NPC design](docs/02-world-and-npc.md) | Region, kamera, NPC, perilaku, performa awal |
 | [Kingdom masterplan backlog](docs/09-spatial-masterplan-backlog.md) | Tata ruang kerajaan, Kampung Pelopor, aturan placement, zonasi, QA, dan tahapan peningkatan ke depan |
+| [2D isometric game direction](docs/10-isometric-game-direction.md) | Game publik 2D isometrik, video 3D, satu canon, pilihan renderer dan tahapan prototipe |
 | [Community & episodes](docs/03-community-and-episodes.md) | Komentar lintas platform, warga, produksi video, publikasi |
 | [Episode 1 creative blueprint](docs/episodes/episode-01-blueprint.md) | Naskah VO v1.2 untuk ElevenLabs, castle awal, storyboard, subtitle dinamis, CTA follow + komen |
 | [Architecture proposal](docs/04-architecture-proposal.md) | Batas subsistem dan alur data **usulan, belum final** |
