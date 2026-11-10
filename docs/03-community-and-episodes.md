@@ -38,11 +38,15 @@
 
 **Penting:** Publikasi lintas platform tidak serentak secara alami. Untuk MVP, perubahan bisa diaktifkan **manual** dengan satu titik publikasi resmi yang ditentukan kreator, bukan mengandalkan webhook posting yang belum tersedia. Status 'terbit' tidak otomatis membuktikan perubahan sudah diterapkan; verifikasi terpisah.
 
-## Episode awal — sketsa, bukan skrip final
-- Episode 1: panorama alam luas tanpa manusia, Joko memperkenalkan dunia, mengundang komentar untuk calon manusia pertama.
-- Episode 2: salah satu komentar terpilih; NPC pertama muncul dan mulai hidup.
-- Selanjutnya: komentar membentuk fasilitas dan warga baru, memunculkan dinamika sederhana.
-- Raja **belum hadir pada awal**; muncul setelah warga dan kehidupan mereka cukup berkembang.
+## Episode 1 — blueprint kreatif disetujui
+- Naskah VO v1.2 untuk ElevenLabs, hook kerajaan dari nol, **castle kosong sejak awal**, shot, **subtitle dinamis mengikuti VO**, CTA follow + komentar, dan world state disimpan di [Episode 1 Blueprint](episodes/episode-01-blueprint.md).
+- Episode 1 sudah **disetujui secara kreatif**, tetapi **belum diproduksi/dirender/diterbitkan**. Timing shot dan durasi final **belum dipatok**; sesuaikan dengan rekaman ElevenLabs dan preview.
+
+## Episode setelah Episode 1 — menunggu komentar nyata
+- **Belum ada outline untuk Episode 2 atau episode berikutnya.** Cerita, peristiwa, penambahan NPC, dan bangunan ditentukan dari komentar penonton yang masuk dan dipilih Joko.
+- Episode 1 mengundang komentar untuk calon manusia pertama, namun nomor episode terjadinya peristiwa tersebut **tidak boleh diasumsikan lebih dulu**.
+- Jangan membuat roadmap cerita episodik atau menetapkan nama NPC/bangunan berikutnya sebelum komentar aktual tersedia dan Joko memutuskan kelanjutannya.
+- Raja belum hadir pada awal dunia dan hanya mungkin muncul setelah peradaban berkembang.
 
 ## Konsistensi
 - Video tidak punya database 'dunia video' yang terpisah.

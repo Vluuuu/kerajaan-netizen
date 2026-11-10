@@ -3,12 +3,16 @@
 ## Dunia: luas secara geografis, ringan saat dijalankan
 - Bentuk: satu daratan luas berkelanjutan yang dapat diorganisasi ke beberapa region; **bukan pulau kecil**.
 - Region pertama: **lembah datar luas dekat sungai**, tanah hijau, pohon seperlunya, hutan dan perbukitan/pegunungan di kejauhan.
-- Episode 1: tidak ada manusia, bangunan, atau peradaban.
+- Episode 1: **satu castle/istana kosong sudah ada** sebagai landmark buatan Joko; **tidak ada manusia, NPC, raja, desa, rumah warga, atau bangunan lain**. Peradaban belum berjalan.
 - Region lain boleh dirancang skematis, tetapi **tidak perlu full-detail, tidak perlu simulasi NPC aktif** sebelum dibutuhkan.
 - Dunia tidak boleh di-reset hanya karena video/fitur baru; ekspansi harus mempertahankan koordinat dan identitas objek lama.
 
+## Tata ruang dan kontinuitas setelah Episode 2
+Menurut laporan pemilik, Episode 2 telah terbit dengan 9 warga dan 3 rumah baru di dekat depan castle. Rumah tersebut menjadi **Kampung Pelopor** yang historis; tidak boleh diam-diam dipindah demi memperindah masterplan. Untuk pembangunan selanjutnya, gunakan zonasi, koridor gerbang dan akses jalan yang direncanakan, dengan validasi kemiringan terrain, sungai/tepian, collision, NPC navigation, camera sightlines, dan kontinuitas snapshot. Seluruh arahan, opsi skenario dan QA ada di [Spatial Masterplan Backlog](09-spatial-masterplan-backlog.md). Rincian posisi/footprint perlu diaudit terhadap kode aktual sebelum implementasi, tidak ditentukan dari sketsa.
+
 ## Batas visual awal
 - Ultra-low-poly: geometri murah, material sederhana, warna terbatas, model reusable.
+- Castle awal berupa geometri ultra-low-poly sederhana, reusable, tanpa ornamen berlebihan atau interior kompleks. Castle kosong dan tidak dihuni.
 - Tanah sederhana, bukan grass blades massal. Pohon berulang dapat memakai instancing. Sungai memakai pendekatan visual ringan, bukan fisika air.
 - Pegunungan jauh hanya latar sederhana. Hindari efek post-processing, bayangan kompleks, cloth/physics, dan shader mahal sebelum profiling membuktikan perlu.
 - Kamera website visi akhir: **mode pengamat aerial + mode berjalan**; **MVP hanya mode pengamat pan/rotate/zoom/klik objek**.

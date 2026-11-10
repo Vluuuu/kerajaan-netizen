@@ -32,6 +32,25 @@ Status:
 | D-021 | Visual sangat ringan/ultra-low-poly; NPC blocky sangat sederhana. |
 | D-022 | Fondasi referensi 3D resmi **mrdoob/three.js**, dan skill AI Remotion resmi **remotion-dev/skills**; R3F belum diputuskan. |
 | D-023 | Kombinasi kreatif pertumbuhan A + komedi B + drama NPC C; petualangan D belakangan. |
+| D-024 | Nama brand/channel dipilih: **DUNIAJOKO.ID**. Nama repo `kerajaan-netizen` tetap; nama kerajaan dalam cerita belum diputuskan. |
+| D-025 | Episode 1 dibuka dengan **Joko menyatakan ingin membangun kerajaan dari nol** dalam 3 detik awal; narasi santai, natural, sedikit kocak. |
+| D-026 | Episode 1 berakhir dengan **follow + komentar** untuk berpeluang menjadi manusia pertama; tidak ada manusia atau raja pada episode tersebut. |
+| D-027 | **Fokus produksi hanya Episode 1**; Episode 2 dan seterusnya tidak diplot lebih dahulu, tetapi ditentukan oleh komentar penonton nyata yang dikurasi Joko. |
+| D-028 | **Satu castle/istana kosong sudah ada sejak awal Episode 1**, disiapkan Joko sebagai simbol kerajaan masa depan; belum ada manusia, raja, rumah, atau bangunan lain. |
+| D-029 | Episode 1 memakai VO versi 1.2 untuk percobaan ElevenLabs dan **subtitle dinamis per-frasa/kata dengan highlight sesuai VO** seperti fungsi subtitle video referensi (tidak meniru identitasnya). |
+
+## Approved direction added 2026-11-09 (pending reconciliation with newer local decision IDs)
+- Setelah Episode 2 terbit, **tata ruang kerajaan harus terencana dan konsisten**: rumah, jalan, castle dan fasilitas masa depan tidak boleh ditempatkan secara acak.
+- **Tiga rumah kanonis Episode 2 tetap menjadi Kampung Pelopor**; jangan memindahkan atau menghilangkannya diam-diam. Jika relokasi memang dibutuhkan, perlu keputusan pemilik dan peristiwa kanonis yang diceritakan.
+- **Rincian zonasi dan implementasi belum disetujui**. Masterplan dipertimbangkan sebagai next improvement, bukan instruksi untuk coding sekarang. Lihat `docs/09-spatial-masterplan-backlog.md`.
+- Sengaja tidak menerbitkan nomor D-030+ di branch dokumentasi ini: menurut laporan Claude Code, decision log lokal telah mencakup D-033; nomor harus direkonsiliasi saat integrasi branch untuk mencegah benturan.
+
+## Approved product direction added 2026-11-10 (pending reconciliation with newer local decision IDs)
+- **Game/website publik diarahkan ke 2D isometrik/2.5D** (pan/zoom, tap bangunan, cari NPC), terinspirasi pengalaman Clash of Clans dan https://thaloriacity.com tanpa menyalin aset/identitasnya.
+- **Video tetap 3D Three.js/Remotion**, kedua renderer memakai **satu world canon** untuk lokasi, ID, warga dan riwayat.
+- Viewer 3D lokal dapat dipertahankan sebagai alat kreator/opsional; **belum ada izin implementasi 2D, pemilihan library, atau deploy**.
+- Arahan ini menggantikan aspek *renderer website* pada D-002/D-019, tanpa mengubah keputusan satu world state. Lihat `docs/10-isometric-game-direction.md`.
+- Tidak menambah ID D-034+ karena decision log lokal Claude Code perlu direkonsiliasi lebih dahulu.
 
 ## Proposed (bukan locked)
 | ID | Usulan |
@@ -47,7 +66,7 @@ Status:
 | P-009 | Manual activation episode sampai sinkronisasi publikasi otomatis benar-benar dibutuhkan. |
 
 ## Open Questions — urut prioritas
-1. Nama final brand/channel, nama dunia/kerajaan, dan domain.
+1. Nama kerajaan dalam cerita, kemungkinan nama dunia, dan verifikasi ketersediaan/kepemilikan domain serta handle `DUNIAJOKO.ID`.
 2. Visual bible Joko yang benar-benar disetujui (silhouette, warna, proporsi, rig).
 3. Bentuk data identitas netizen: moderasi username, perubahan nama, platform duplicate, klaim akun, opt-out.
 4. Ketentuan calon warga: sumber angka follower, penggabungan antar-platform, interval pembaruan, saat follower turun.
