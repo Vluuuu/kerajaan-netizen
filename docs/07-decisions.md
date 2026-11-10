@@ -45,6 +45,13 @@ Status:
 - **Rincian zonasi dan implementasi belum disetujui**. Masterplan dipertimbangkan sebagai next improvement, bukan instruksi untuk coding sekarang. Lihat `docs/09-spatial-masterplan-backlog.md`.
 - Sengaja tidak menerbitkan nomor D-030+ di branch dokumentasi ini: menurut laporan Claude Code, decision log lokal telah mencakup D-033; nomor harus direkonsiliasi saat integrasi branch untuk mencegah benturan.
 
+## Approved product direction added 2026-11-10 (pending reconciliation with newer local decision IDs)
+- **Game/website publik diarahkan ke 2D isometrik/2.5D** (pan/zoom, tap bangunan, cari NPC), terinspirasi pengalaman Clash of Clans dan https://thaloriacity.com tanpa menyalin aset/identitasnya.
+- **Video tetap 3D Three.js/Remotion**, kedua renderer memakai **satu world canon** untuk lokasi, ID, warga dan riwayat.
+- Viewer 3D lokal dapat dipertahankan sebagai alat kreator/opsional; **belum ada izin implementasi 2D, pemilihan library, atau deploy**.
+- Arahan ini menggantikan aspek *renderer website* pada D-002/D-019, tanpa mengubah keputusan satu world state. Lihat `docs/10-isometric-game-direction.md`.
+- Tidak menambah ID D-034+ karena decision log lokal Claude Code perlu direkonsiliasi lebih dahulu.
+
 ## Proposed (bukan locked)
 | ID | Usulan |
 | --- | --- |
